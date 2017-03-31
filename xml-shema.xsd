@@ -1,0 +1,74 @@
+<?xml version="1.0"encoding= "UFT-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="kitap">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="Kitap_ID" type="xs:integer"/>
+      <xs:element name="kitapadi" type="xs:string"/>
+      <xs:element name="ISBN" type="xs:integer"/>
+      <xs:element name="sayfa" type="xs:integer"/>
+      <xs:element name="yazar_ıd" type="xs:integer"/>
+      <xs:element name="yayinevi_ID" type="xs:integer"/> 
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+    
+    
+    <xs:element name="yazar">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="yazar_ID" type="xs:integer"/>
+      <xs:element name="yazar_adi" type="xs:string"/>
+      <xs:element name="yazar_soyadi" type="xs:string"/>
+      <xs:element name="dogumtarihi" type="xs:integer"/>
+      <xs:element name="cinsiyet" type="xs:string"/>  
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+    
+    
+    
+    
+    <xs:element name="yayinevi">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="yayinevi_ID" type="xs:integer"/>
+      <xs:element name="yayinevi_adi" type="xs:string"/>
+      <xs:element name="adres" type="xs:integer"/>
+      <xs:element name="ülke" type="xs:string"/>      
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+    
+    
+</xs:schema>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
