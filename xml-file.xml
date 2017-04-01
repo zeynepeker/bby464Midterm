@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UFT-8"?>
+<katalog>
+     
+<yayinevi>
+    <yayinevi_ID>1</yayinevi_ID>
+      <yayinevi_adi>Everest Yayıncılık</yayinevi_adi>
+      <adres>İstanbul</adres>
+     <ulke>Türkiye</ulke>
+</yayinevi> 
+
+
+<yayinevi>
+    <yayinevi_ID>2</yayinevi_ID>
+      <yayinevi_adi>Yapı Kredi Yayıncılık</yayinevi_adi>
+      <adres>İstanbul</adres>
+     <ulke>Türkiye</ulke>
+</yayinevi> 
+
+
+<yayinevi>
+    <yayinevi_ID>3</yayinevi_ID>
+      <yayinevi_adi>Sel Yayıncılık</yayinevi_adi>
+      <adres>İstanbul</adres>
+     <ulke>Türkiye</ulke>
+</yayinevi> 
+
+<yayinevi>
+    <yayinevi_ID>4</yayinevi_ID>
+      <yayinevi_adi>Can Yayıncılık</yayinevi_adi>
+      <adres>İstanbul</adres>
+     <ulke>Türkiye</ulke>
+</yayinevi> 
+
+
+<yazar>
+    <yazar_ID>1</yazar_ID>
+      <yazar_adi>Join</yazar_adi>
+      <yazar_soyadi>Steinbeck</yazar_soyadi>
+     <dogumtarihi>Erkek</dogumtarihi>
+     <cinsiyet>1902</cinsiyet>
+</yazar> 
+    
+
+<yazar>
+    <yazar_ID>2</yazar_ID>
+      <yazar_adi>Khaled</yazar_adi>
+      <yazar_soyadi>Hosseini</yazar_soyadi>
+     <dogumtarihi>1965</dogumtarihi>
+     <cinsiyet>Erkek</cinsiyet>
+</yazar>     
+
+    
+    
+<yazar>
+    <yazar_ID>3</yazar_ID>
+      <yazar_adi>Halide Edip</yazar_adi>
+      <yazar_soyadi>Adıvar</yazar_soyadi>
+     <dogumtarihi>1884</dogumtarihi>
+     <cinsiyet>Kadın</cinsiyet>
+</yazar>  
+    
+    
+<yazar>
+    <yazar_ID>4</yazar_ID>
+      <yazar_adi>Ferit</yazar_adi>
+      <yazar_soyadi>Edgü</yazar_soyadi>
+     <dogumtarihi>1936</dogumtarihi>
+     <cinsiyet>Erkek</cinsiyet>
+</yazar>  
+    
+    
+<yazar>
+    <yazar_ID>5</yazar_ID>
+      <yazar_adi>Sabahattin</yazar_adi>
+      <yazar_soyadi>Ali</yazar_soyadi>
+     <dogumtarihi>1907</dogumtarihi>
+     <cinsiyet>Erkek</cinsiyet>
+</yazar>  
+    
+    
+    <kitap>
+      <kitap_ID>1</kitap_ID>
+      <kitap_adi> Gazap Üzümleri</kitap_adi>
+      <ISBN>9789755707402</ISBN>
+      <sayfa>556</sayfa>
+      <yazar_ID>1</yazar_ID>
+      <yayinevi_ID>3</yayinevi_ID>
+   </kitap>
+    
+    
+     <kitap>
+      <kitap_ID>2</kitap_ID>
+      <kitap_adi> Fareler ve İnsanlar</kitap_adi>
+      <ISBN>9789755705859</ISBN>
+      <sayfa>128</sayfa>
+      <yazar_ID>1</yazar_ID>
+      <yayinevi_ID>3</yayinevi_ID>
+   </kitap>
+    
+
+     <kitap>
+      <kitap_ID>3</kitap_ID>
+      <kitap_adi> Tatlı Perşembe</kitap_adi>
+      <ISBN>9789755706436</ISBN>
+      <sayfa>263</sayfa>
+      <yazar_ID>1</yazar_ID>
+      <yayinevi_ID>3</yayinevi_ID>
+   </kitap>
+    
+     <kitap>
+      <kitap_ID>4</kitap_ID>
+      <kitap_adi>Ve Dağlar Yankılandı</kitap_adi>
+      <ISBN>9786051416779</ISBN>
+      <sayfa>424</sayfa>
+      <yazar_ID>2</yazar_ID>
+      <yayinevi_ID>1</yayinevi_ID>
+   </kitap>
+    
+    
+    <kitap>
+      <kitap_ID>5</kitap_ID>
+      <kitap_adi>Bin Muhteşem Güneş</kitap_adi>
+      <ISBN>9789752894846</ISBN>
+      <sayfa>430</sayfa>
+      <yazar_ID>2</yazar_ID>
+      <yayinevi_ID>1</yayinevi_ID>
+   </kitap>
+    
+    <kitap>
+      <kitap_ID>6</kitap_ID>
+      <kitap_adi>Uçurtma Avcısı</kitap_adi>
+      <ISBN>9789752895171</ISBN>
+      <sayfa>375</sayfa>
+      <yazar_ID>2</yazar_ID>
+      <yayinevi_ID>1</yayinevi_ID>
+   </kitap>
+    
+    
+    <kitap>
+      <kitap_ID>7</kitap_ID>
+      <kitap_adi>Handan</kitap_adi>
+      <ISBN>9789750708923</ISBN>
+      <sayfa>224</sayfa>
+      <yazar_ID>3</yazar_ID>
+      <yayinevi_ID>4</yayinevi_ID>
+   </kitap>
+    
+    
+    <kitap>
+      <kitap_ID>8</kitap_ID>
+      <kitap_adi>Sinekli Bakkal</kitap_adi>
+      <ISBN>97897507221663</ISBN>
+      <sayfa>424</sayfa>
+      <yazar_ID>3</yazar_ID>
+      <yayinevi_ID>4</yayinevi_ID>
+   </kitap>
+    
+    
+    <kitap>
+      <kitap_ID>9</kitap_ID>
+      <kitap_adi>Ateşten Gömlek</kitap_adi>
+      <ISBN>978950723216</ISBN>
+      <sayfa>158</sayfa>
+      <yazar_ID>3</yazar_ID>
+      <yayinevi_ID>4</yayinevi_ID>
+   </kitap>
+    
+    
+    <kitap>
+      <kitap_ID>10</kitap_ID>
+      <kitap_adi>Hakkari'de Bir Mevsim</kitap_adi>
+      <ISBN>9789755702585</ISBN>
+      <sayfa>198</sayfa>
+      <yazar_ID>4</yazar_ID>
+      <yayinevi_ID>3</yayinevi_ID>
+   </kitap>
+    
+     <kitap>
+      <kitap_ID>11</kitap_ID>
+      <kitap_adi>Eylül'ün Gölgesinde Bir Yazdı</kitap_adi>
+      <ISBN>9789755705989</ISBN>
+      <sayfa>110</sayfa>
+      <yazar_ID>4</yazar_ID>
+      <yayinevi_ID>3</yayinevi_ID>
+   </kitap>
+    
+     <kitap>
+      <kitap_ID>12</kitap_ID>
+      <kitap_adi>Av</kitap_adi>
+      <ISBN>9789755706313</ISBN>
+      <sayfa>107</sayfa>
+      <yazar_ID>4</yazar_ID>
+      <yayinevi_ID>3</yayinevi_ID>
+   </kitap>
+    
+    
+     <kitap>
+      <kitap_ID>13</kitap_ID>
+      <kitap_adi>Kürk Mantolu Madonna</kitap_adi>
+      <ISBN>9789753638029</ISBN>
+      <sayfa>164</sayfa>
+      <yazar_ID>5</yazar_ID>
+      <yayinevi_ID>2</yayinevi_ID>
+   </kitap>
+    
+     <kitap>
+      <kitap_ID>14</kitap_ID>
+      <kitap_adi>Kuyucaklı Yusuf</kitap_adi>
+      <ISBN>9789750800016</ISBN>
+      <sayfa>220</sayfa>
+      <yazar_ID>5</yazar_ID>
+      <yayinevi_ID>2</yayinevi_ID>
+   </kitap>
+    
+    
+     <kitap>
+      <kitap_ID>15</kitap_ID>
+      <kitap_adi>İçimizdeki Şeytan</kitap_adi>
+      <ISBN>9789753638036</ISBN>
+      <sayfa>254</sayfa>
+      <yazar_ID>5</yazar_ID>
+      <yayinevi_ID>2</yayinevi_ID>
+   </kitap>
+    
+
+
+    
+</katalog>
