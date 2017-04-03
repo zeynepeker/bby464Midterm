@@ -1,0 +1,167 @@
+
+    <xml version="1.0" encoding="UTF-8">
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:cd="http://www.purl.org/cd/elements/1./">
+
+<rdf:Description
+rdf:about="Gazap Uzumleri">
+    <cd:title>Gazap Üzümleri</cd:title>
+  <cd:creator>Join Steinbeck</cd:creator>
+  <cd:publisher>Sel Yayıncılık</cd:publisher>
+  <cd:identifier>9789755707402</cd:identifier>
+  <cd:page>556</cd:page>
+</rdf:Description>
+    
+    
+    <rdf:Description
+rdf:about="Fareler ve İnsanlar">
+    <cd:title>Fareler ve İnsanlar</cd:title>
+  <cd:creator>Join Steinbeck</cd:creator>
+  <cd:publisher>Sel Yayıncılık</cd:publisher>
+  <cd:identifier>9789755705859</cd:identifier>
+  <cd:page>128</cd:page>
+</rdf:Description>
+    
+    
+    <rdf:Description
+rdf:about="Tatli Perşembe">
+    <cd:title>Tatlı Perşembe</cd:title>
+  <cd:creator>Join Steinbeck</cd:creator>
+  <cd:publisher>Sel Yayıncılık</cd:publisher>
+  <cd:identifier>9789755706436</cd:identifier>
+  <cd:page>263</cd:page>
+</rdf:Description>
+    
+    
+    <rdf:Description
+rdf:about="Ve Daglar Yankilandi">
+    <cd:title>Ve Dağlar Yankılandı</cd:title>
+  <cd:creator>Khaled Hosseini</cd:creator>
+  <cd:publisher>Everest Yayıncılık</cd:publisher>
+  <cd:identifier>9786051416779</cd:identifier>
+  <cd:page>424</cd:page>
+</rdf:Description>
+    
+    
+     <rdf:Description
+rdf:about="Bin Muhtesem Gunes">
+    <cd:title>Bin Muhteşem Güneş</cd:title>
+  <cd:creator>Khaled Hosseini</cd:creator>
+  <cd:publisher>Everest Yayıncılık</cd:publisher>
+  <cd:identifier>9789752894846</cd:identifier>
+  <cd:page>430</cd:page>
+</rdf:Description>
+    
+    
+    <rdf:Description
+rdf:about="Ucurtma Avcisi">
+    <cd:title>Uçurtma Avcısı</cd:title>
+  <cd:creator>Khaled Hosseini</cd:creator>
+  <cd:publisher>Everest Yayıncılık</cd:publisher>
+  <cd:identifier>9789752895171</cd:identifier>
+  <cd:page>375</cd:page>
+</rdf:Description>
+    
+    
+     <rdf:Description
+rdf:about="Handan">
+    <cd:title>Handan</cd:title>
+  <cd:creator>Halide Edip Adıvar</cd:creator>
+  <cd:publisher>Can Yayıncılık</cd:publisher>
+  <cd:identifier>9789750708923</cd:identifier>
+  <cd:page>224</cd:page>
+</rdf:Description>
+    
+    
+    <rdf:Description
+rdf:about="Handan">
+    <cd:title>Handan</cd:title>
+  <cd:creator>Halide Edip Adıvar</cd:creator>
+  <cd:publisher>Can Yayıncılık</cd:publisher>
+  <cd:identifier>9789750708923</cd:identifier>
+  <cd:page>224</cd:page>
+</rdf:Description>
+    
+    
+    <rdf:Description
+rdf:about="Sinekli Bakkal">
+    <cd:title>Sinekli Bakkal</cd:title>
+  <cd:creator>Halide Edip Adıvar</cd:creator>
+  <cd:publisher>Can Yayıncılık</cd:publisher>
+  <cd:identifier>9789750721663</cd:identifier>
+  <cd:page>424</cd:page>
+</rdf:Description>
+    
+    
+    <rdf:Description
+rdf:about="Atesten Gomlek">
+    <cd:title>Ateşten Gömlek</cd:title>
+  <cd:creator>Halide Edip Adıvar</cd:creator>
+  <cd:publisher>Can Yayıncılık</cd:publisher>
+  <cd:identifier>9789750723216</cd:identifier>
+  <cd:page>158</cd:page>
+</rdf:Description>
+    
+    
+     <rdf:Description
+rdf:about="Hakkaride Bir Mevsim">
+    <cd:title>Hakkari'de Bir Mevsim</cd:title>
+  <cd:creator>Ferit Edgü</cd:creator>
+  <cd:publisher>Sel Yayıncılık</cd:publisher>
+  <cd:identifier>9789755702858</cd:identifier>
+  <cd:page>198</cd:page>
+</rdf:Description>
+    
+    
+    <rdf:Description
+rdf:about="Eylulun Golgesinde Bir Yazdı">
+    <cd:title>Eylül'ün Gölgesinde Bir Yazdı</cd:title>
+  <cd:creator>Ferit Edgü</cd:creator>
+  <cd:publisher>Sel Yayıncılık</cd:publisher>
+  <cd:identifier>9789755705989</cd:identifier>
+  <cd:page>110</cd:page>
+</rdf:Description>
+    
+    
+      <rdf:Description
+rdf:about="Av">
+    <cd:title>Av</cd:title>
+  <cd:creator>Ferit Edgü</cd:creator>
+  <cd:publisher>Sel Yayıncılık</cd:publisher>
+  <cd:identifier>9789755706313</cd:identifier>
+  <cd:page>107</cd:page>
+</rdf:Description>
+    
+    
+     <rdf:Description
+rdf:about="Kürk Mantolu Madonna">
+    <cd:title>Kürk Mantolu Madonna</cd:title>
+  <cd:creator>Sabahattin Ali</cd:creator>
+  <cd:publisher>Yapı Kredi Yayıncılık</cd:publisher>
+  <cd:identifier>9789753638029</cd:identifier>
+  <cd:page>164</cd:page>
+</rdf:Description>
+    
+    
+        <rdf:Description
+rdf:about="Kuyucakli Yusuf">
+    <cd:title>Kuyucaklı Yusuf</cd:title>
+  <cd:creator>Sabahattin Ali</cd:creator>
+  <cd:publisher>Yapı Kredi Yayıncılık</cd:publisher>
+  <cd:identifier>9789750800016</cd:identifier>
+  <cd:page>220</cd:page>
+</rdf:Description>
+    
+    
+    <rdf:Description
+rdf:about="İcimizdeki Seytan">
+    <cd:title>İçimizdeki Şeytan</cd:title>
+  <cd:creator>Sabahattin Ali</cd:creator>
+  <cd:publisher>Yapı Kredi Yayıncılık</cd:publisher>
+  <cd:identifier>9789753638036</cd:identifier>
+  <cd:page>254</cd:page>
+</rdf:Description>
+    
+    
+</rdf:RDF> 
